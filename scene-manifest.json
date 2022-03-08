@@ -1,0 +1,491 @@
+{
+	"Texture1D": {
+		"914baec1-3396-be4b-8540-5f3dcb13db15": {
+			"filename": "luts/toon-1D.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_mode": "",
+			"guid": "914baec1-3396-be4b-8540-5f3dcb13db15"
+		}
+	},
+	"Texture2D": {
+		"38d4f55b-e8ad-914d-b490-f490c034f59e": {
+			"anisotropic": 16.0,
+			"filename": "textures/box-diffuse.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "38d4f55b-e8ad-914d-b490-f490c034f59e"
+		},
+		"8a44d4d3-a52e-0e4a-8d32-9adf328c584d": {
+			"anisotropic": 16.0,
+			"filename": "textures/box-specular.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "8a44d4d3-a52e-0e4a-8d32-9adf328c584d"
+		},
+		"899b472d-0b05-c240-bd59-d6000b6d482f": {
+			"anisotropic": 16.0,
+			"filename": "textures/monkey-uvMap.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "899b472d-0b05-c240-bd59-d6000b6d482f"
+		},
+		"92879c9b-f750-4e4a-b1f1-8f4a50d6cc3a": {
+			"anisotropic": 16.0,
+			"filename": "textures/leaves.png",
+			"filter_mag": "Nearest",
+			"filter_min": "Nearest",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "92879c9b-f750-4e4a-b1f1-8f4a50d6cc3a"
+		},
+		"0aa06134-052b-1142-b08f-af0f21de4831": {
+			"anisotropic": 16.0,
+			"data": "zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc0zQ",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"format": "RGB",
+			"generate_mipmaps": true,
+			"pixel_type": "Float",
+			"size_x": 1,
+			"size_y": 1,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "0aa06134-052b-1142-b08f-af0f21de4831"
+		},
+		"965a4725-ed38-5d43-bb82-eaa1fd065701": {
+			"anisotropic": 16.0,
+			"data": "zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc0zQ",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"format": "RGB",
+			"generate_mipmaps": true,
+			"pixel_type": "Float",
+			"size_x": 1,
+			"size_y": 1,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "965a4725-ed38-5d43-bb82-eaa1fd065701"
+		},
+		"2e053433-40b0-0d4c-ac64-23be441fc308": {
+			"anisotropic": 16.0,
+			"data": "zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc0zQ",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"format": "RGB",
+			"generate_mipmaps": true,
+			"pixel_type": "Float",
+			"size_x": 1,
+			"size_y": 1,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "2e053433-40b0-0d4c-ac64-23be441fc308"
+		},
+		"9a5a887d-d169-4d46-892b-daf8a08293c2": {
+			"anisotropic": 16.0,
+			"data": "zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc0zQ",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"format": "RGB",
+			"generate_mipmaps": true,
+			"pixel_type": "Float",
+			"size_x": 1,
+			"size_y": 1,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "9a5a887d-d169-4d46-892b-daf8a08293c2"
+		},
+		"89b8a859-c853-eb4c-b003-a32ea36dbd90": {
+			"anisotropic": 16.0,
+			"filename": "textures/ui-sprite.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "89b8a859-c853-eb4c-b003-a32ea36dbd90"
+		}
+	},
+	"Texture3D": {
+		"7f9a2f4c-3ffe-9445-90db-926d2d023f54": {
+			"filename": "luts/cool.CUBE",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_r": "",
+			"wrap_s": "",
+			"wrap_t": "",
+			"guid": "7f9a2f4c-3ffe-9445-90db-926d2d023f54"
+		}
+	},
+	"TextureCube": {
+		"66864351-14ac-df4c-8f9f-fe3de7f0a4fe": {
+			"face_filenames": {
+				"NegX": "C:\\OTTER-1.0.1\\bin\\Debug-windows-x86_64\\tutorial6\\cubemaps\\ocean\\ocean_NegX.jpg",
+				"NegY": "C:\\OTTER-1.0.1\\bin\\Debug-windows-x86_64\\tutorial6\\cubemaps\\ocean\\ocean_NegY.jpg",
+				"NegZ": "C:\\OTTER-1.0.1\\bin\\Debug-windows-x86_64\\tutorial6\\cubemaps\\ocean\\ocean_NegZ.jpg",
+				"PosX": "C:\\OTTER-1.0.1\\bin\\Debug-windows-x86_64\\tutorial6\\cubemaps\\ocean\\ocean_PosX.jpg",
+				"PosY": "C:\\OTTER-1.0.1\\bin\\Debug-windows-x86_64\\tutorial6\\cubemaps\\ocean\\ocean_PosY.jpg",
+				"PosZ": "C:\\OTTER-1.0.1\\bin\\Debug-windows-x86_64\\tutorial6\\cubemaps\\ocean\\ocean_PosZ.jpg"
+			},
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"guid": "66864351-14ac-df4c-8f9f-fe3de7f0a4fe"
+		}
+	},
+	"ShaderProgram": {
+		"2d1e4383-866b-ae40-ba43-b266fd254941": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/deferred_forward.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/basic.glsl"
+			},
+			"name": "Deferred - GBuffer Generation",
+			"guid": "2d1e4383-866b-ae40-ba43-b266fd254941"
+		},
+		"9c61fe52-8556-074a-9123-016aa0ff3747": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/deferred_forward.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/foliage.glsl"
+			},
+			"name": "Foliage",
+			"guid": "9c61fe52-8556-074a-9123-016aa0ff3747"
+		},
+		"d7472079-8c8d-bc47-ac39-f2edc17e732e": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/frag_multitextured.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/vert_multitextured.glsl"
+			},
+			"name": "Multitexturing",
+			"guid": "d7472079-8c8d-bc47-ac39-f2edc17e732e"
+		},
+		"0429fd9a-030d-5341-a0fa-fd2433a2366c": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/deferred_forward.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/displacement_mapping.glsl"
+			},
+			"name": "Displacement Mapping",
+			"guid": "0429fd9a-030d-5341-a0fa-fd2433a2366c"
+		},
+		"37e2b6aa-b6d6-234e-8522-37a535bf03d1": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/cel_shader.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/displacement_mapping.glsl"
+			},
+			"name": "Cel Shader",
+			"guid": "37e2b6aa-b6d6-234e-8522-37a535bf03d1"
+		},
+		"38022a39-269b-6b45-9e26-ea83711b2b7e": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/skybox_frag.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/skybox_vert.glsl"
+			},
+			"name": "",
+			"guid": "38022a39-269b-6b45-9e26-ea83711b2b7e"
+		}
+	},
+	"Gameplay::Material": {
+		"f971dfb2-f140-0848-8556-f534a636ddd3": {
+			"guid": "f971dfb2-f140-0848-8556-f534a636ddd3",
+			"name": "Box",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "38d4f55b-e8ad-914d-b490-f490c034f59e"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "0aa06134-052b-1142-b08f-af0f21de4831"
+				}
+			},
+			"shader": "2d1e4383-866b-ae40-ba43-b266fd254941"
+		},
+		"17dbab3b-81fb-4d45-b3e8-1decc26f9fbe": {
+			"guid": "17dbab3b-81fb-4d45-b3e8-1decc26f9fbe",
+			"name": "Monkey",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "899b472d-0b05-c240-bd59-d6000b6d482f"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "0aa06134-052b-1142-b08f-af0f21de4831"
+				}
+			},
+			"shader": "2d1e4383-866b-ae40-ba43-b266fd254941"
+		},
+		"6bcf83b7-b913-1d4d-ad72-523a3695b8e6": {
+			"guid": "6bcf83b7-b913-1d4d-ad72-523a3695b8e6",
+			"name": "Box-Specular",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "38d4f55b-e8ad-914d-b490-f490c034f59e"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "0aa06134-052b-1142-b08f-af0f21de4831"
+				}
+			},
+			"shader": "2d1e4383-866b-ae40-ba43-b266fd254941"
+		},
+		"5986f622-58e4-4341-9641-bbf2fc9d6a52": {
+			"guid": "5986f622-58e4-4341-9641-bbf2fc9d6a52",
+			"name": "Foliage Shader",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "92879c9b-f750-4e4a-b1f1-8f4a50d6cc3a"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "0aa06134-052b-1142-b08f-af0f21de4831"
+				},
+				"u_VerticalScale": {
+					"type": "Float",
+					"value": 1.0
+				},
+				"u_WindDirection": {
+					"type": "Float3",
+					"value": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 0.0
+					}
+				},
+				"u_WindSpeed": {
+					"type": "Float",
+					"value": 1.0
+				},
+				"u_WindStrength": {
+					"type": "Float",
+					"value": 0.5
+				}
+			},
+			"shader": "9c61fe52-8556-074a-9123-016aa0ff3747"
+		}
+	},
+	"Gameplay::MeshResource": {
+		"a54c075f-dae9-5b47-bda0-480bb1cfa823": {
+			"filename": "Monkey.obj",
+			"guid": "a54c075f-dae9-5b47-bda0-480bb1cfa823"
+		},
+		"1918ea93-41c2-fd48-8690-3e141bda2d74": {
+			"params": [
+				{
+					"color": {
+						"w": 1.0,
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"params": {
+						"normal": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 1.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"scale": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 0.0
+						},
+						"tangent": {
+							"x": 1.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"uv_scale": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 1.0
+						}
+					},
+					"type": "Plane"
+				}
+			],
+			"guid": "1918ea93-41c2-fd48-8690-3e141bda2d74"
+		},
+		"aef653da-5fb8-484a-b163-c69d5f076a2f": {
+			"params": [
+				{
+					"color": {
+						"w": 1.0,
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"params": {
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"radius": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 1.0
+						},
+						"tessellation": {
+							"x": 5.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					},
+					"type": "IcoShere"
+				}
+			],
+			"guid": "aef653da-5fb8-484a-b163-c69d5f076a2f"
+		},
+		"551783c4-1950-944f-84c5-eed63dc7f2fe": {
+			"params": [
+				{
+					"color": {
+						"w": 1.0,
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"params": {
+						"normal": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 1.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"scale": {
+							"x": 100.0,
+							"y": 100.0,
+							"z": 0.0
+						},
+						"tangent": {
+							"x": 1.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"uv_scale": {
+							"x": 20.0,
+							"y": 20.0,
+							"z": 1.0
+						}
+					},
+					"type": "Plane"
+				}
+			],
+			"guid": "551783c4-1950-944f-84c5-eed63dc7f2fe"
+		},
+		"6ab6ae22-152c-b147-88dd-c6f19cf04eba": {
+			"params": [
+				{
+					"color": {
+						"w": 1.0,
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"params": {
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"scale": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 1.0
+						}
+					},
+					"type": "Cube"
+				}
+			],
+			"guid": "6ab6ae22-152c-b147-88dd-c6f19cf04eba"
+		}
+	},
+	"Font": null,
+	"Framebuffer": null
+}
